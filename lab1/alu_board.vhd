@@ -14,19 +14,26 @@ end alu_board;
 
 architecture alu_board of alu_board is
 
-signal x, y, output: std_logic_vector(31 downto 0);
-signal add_sub_out : std_logic_vector(31 downto 0);
-signal logic_unit_out : std_logic_vector(31 downto 0);
-begin
+	signal x, y, output : std_logic_vector(31 downto 0);
+	signal add_sub_out : std_logic_vector(31 downto 0);
+	signal logic_unit_out : std_logic_vector(31 downto 0);
+	signal slt : std_logic;
 
-x(3 downto 0) <= x_in(3) & x_in(2) & x_in(1) & x_in(0);
-y(3 downto 0) <= y_in(3) & y_in(2) & y_in(1) & y_in(0);
-x(31 downto 4) <= (others => '0');
-y(31 downto 4) <= (others => '0');
+begin
+	x(3 downto 0) <= x_in(3) & x_in(2) & x_in(1) & x_in(0);
+	y(3 downto 0) <= y_in(3) & y_in(2) & y_in(1) & y_in(0);
+	x(31 downto 4) <= (others => '0');
+	y(31 downto 4) <= (others => '0');
 
 	-- process for adder_subtract
 	process(x, y, add_sub)
 	begin
+		if (x < y) then
+			slt <= '1';
+		else
+			slt <= '0';
+		end if;
+
 		if (add_sub = '0') then
 			add_sub_out <= x + y;
 		else
@@ -49,14 +56,14 @@ y(31 downto 4) <= (others => '0');
 	-- process for overflow
 	process(x, y, add_sub, add_sub_out)
 	begin
-		-- If adding, overflow = ABC' + A'B'C, A = x(31), B = y(31), C = add_sub_out(31)
+		-- If adding, overflow = ABC' + A'B'C, A = x(3), B = y(3), C = add_sub_out(3)
 		if (add_sub = '0') then
-			overflow <= (x_in(3) and y_in(3) and (not add_sub_out(3))) or
-				    ((not x_in(3)) and (not y_in(3)) and add_sub_out(3));
+			overflow <= (x(3) and y(3) and (not add_sub_out(3))) or
+				    ((not x(3)) and (not y(3)) and add_sub_out(3));
 		-- If subtracting, overflow = AB'C' + A'BC
 		else
-			overflow <= (x_in(3) and (not y_in(3)) and (not add_sub_out(3))) or
-				    ((not x_in(3)) and y_in(3) and add_sub_out(3));
+			overflow <= (x(3) and (not y(3)) and (not add_sub_out(3))) or
+				    ((not x(3)) and y(3) and add_sub_out(3));
 		end if;	
 	end process;
 
@@ -75,16 +82,14 @@ y(31 downto 4) <= (others => '0');
 	begin
 		case func is 
 			when "00" => output <= y;
-			when "01" => output <= "0000000000000000000000000000000" & add_sub_out(31); 
+			when "01" => output <= "0000000000000000000000000000000" & slt; 
 			when "10" => output <= add_sub_out;
 			when "11" => output <= logic_unit_out;
 			when others => output <= (others => 'X');
 		end case;
 	end process;
 
-
-output_out(3 downto 0) <= output(3 downto 0);
-
+	output_out(3 downto 0) <= output(3 downto 0);
 
 end alu_board;
 
