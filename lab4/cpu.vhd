@@ -6,7 +6,7 @@ use IEEE.numeric_std.all;
 entity cpu is
 port(clk : in std_logic;
 	reset : in std_logic;
-	rs_out, rt_out, pc_out : out std_logic_vector(31 downto 0);
+	rs_out, rt_out, pc_out : out std_logic_vector(3 downto 0);
 	zero, overflow : out std_logic);
 end cpu;
 
@@ -120,8 +120,8 @@ begin
 	din_int <= d_out_int when reg_in_src_int = '0' else
 	   	   alu_output_int when reg_in_src_int = '1';
 	
-	pc_out <= pc_int;
-	rs_out <= rs_int;
-	rt_out <= rt_int;
+	pc_out <= pc_int(3 downto 0);
+	rs_out <= rs_int(3 downto 0);
+	rt_out <= rt_int(3 downto 0);
 end cpu;
 
