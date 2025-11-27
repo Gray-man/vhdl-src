@@ -1,0 +1,31 @@
+# vsim -do "../next_address.do" next_address 
+# Start time: 16:45:05 on Nov 13,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading ieee.numeric_std(body)
+# Loading work.next_address(next_address)
+# do ../next_address.do
+# TEST 1: Straight-line execution (PC + 1)
+# TEST 2: BEQ with rs = rt (branch taken, offset = -3)
+# TEST 3: BEQ with rs != rt (branch not taken)
+# TEST 4: BNE with rs != rt (branch taken, offset = -3)
+# TEST 5: BNE with rs = rt (branch not taken)
+# TEST 6: BLTZ with rs < 0 (branch taken, offset = -5)
+# TEST 7: BLTZ with rs >= 0 (branch not taken)
+# TEST 8: JUMP instruction (unconditional)
+# TEST 9: JUMP with large target address
+# TEST 10: JR (Jump Register) instruction
+# TEST 11: BEQ with positive offset (branch taken)
+# TEST 12: BLTZ with rs = 0 (branch not taken)
+# TEST 13: JR with large address
+# =========================================
+# All test cases completed!
+# Review the waveform to verify results.
+# =========================================
+# 0 ps
+# 157500 ps
+# End time: 20:33:13 on Nov 13,2025, Elapsed time: 3:48:08
+# Errors: 0, Warnings: 0

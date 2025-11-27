@@ -1,0 +1,744 @@
+# vsim alu 
+# Start time: 10:15:56 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 10:16:07 on Oct 23,2025, Elapsed time: 0:00:11
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 10:16:07 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:16:08 on Oct 23,2025
+# vcom -reportprogress 300 alu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity alu
+# -- Compiling architecture alu of alu
+# End time: 10:16:08 on Oct 23,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 10:18:06 on Oct 23,2025, Elapsed time: 0:01:59
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 10:18:06 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:18:07 on Oct 23,2025
+# vcom -reportprogress 300 alu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity alu
+# -- Compiling architecture alu of alu
+# End time: 10:18:07 on Oct 23,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 10:23:25 on Oct 23,2025, Elapsed time: 0:05:19
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 10:23:25 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:23:26 on Oct 23,2025
+# vcom -reportprogress 300 alu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity alu
+# -- Compiling architecture alu of alu
+# End time: 10:23:26 on Oct 23,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 10:24:44 on Oct 23,2025, Elapsed time: 0:01:19
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 10:24:44 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:24:45 on Oct 23,2025
+# vcom -reportprogress 300 alu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity alu
+# -- Compiling architecture alu of alu
+# End time: 10:24:45 on Oct 23,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 10:34:26 on Oct 23,2025, Elapsed time: 0:09:42
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 10:34:26 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:34:27 on Oct 23,2025
+# vcom -reportprogress 300 alu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity alu
+# -- Compiling architecture alu of alu
+# End time: 10:34:27 on Oct 23,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 10:55:45 on Oct 23,2025, Elapsed time: 0:21:19
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 10:55:45 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+vsim -do ../../DO/alu.do alu
+# End time: 11:04:42 on Oct 23,2025, Elapsed time: 0:08:57
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 11:04:42 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+vsim -do ../../DO/alu.do alu
+# End time: 11:06:05 on Oct 23,2025, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 11:06:05 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(alu)
+vsim -do ../../DO/alu.do alu
+# End time: 11:15:05 on Oct 23,2025, Elapsed time: 0:09:00
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 11:15:05 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+vsim -do ../../DO/alu.do alu
+# End time: 11:24:59 on Oct 23,2025, Elapsed time: 0:09:54
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 11:24:59 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+vsim -do ../../DO/alu.do alu
+# End time: 11:30:16 on Oct 23,2025, Elapsed time: 0:05:17
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/alu.do" alu 
+# Start time: 11:30:16 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.alu(alu)
+# do ../../DO/alu.do
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /alu
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+vsim -do ../../DO/regfile.do regfile
+# End time: 14:20:02 on Oct 23,2025, Elapsed time: 2:49:46
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile.do" regfile 
+# Start time: 14:20:02 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile.do
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 10 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 10 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 15 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 15 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 20 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 20 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 25 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 25 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 30 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 30 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 35 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 35 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 40 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 40 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 45 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 45 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 55 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 55 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 60 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 60 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 65 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 65 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 70 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 70 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 75 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 75 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 80 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 80 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 85 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 85 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 90 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 90 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 95 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 95 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 100 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 100 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 100 ps  Iteration: 1  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 100 ps  Iteration: 1  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 105 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 105 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 110 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 110 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 115 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 115 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 120 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 120 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 125 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 125 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 130 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 130 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 135 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 135 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 140 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 140 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 145 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 145 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 150 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 150 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 155 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 155 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 160 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 160 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 165 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 165 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 170 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 170 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 175 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 175 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 180 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 180 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 185 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 185 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 190 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 190 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 195 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 195 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ps  Iteration: 1  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 205 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 210 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 215 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 220 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 225 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 230 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 235 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 240 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 245 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 250 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 255 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 260 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 265 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 270 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 275 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 280 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 285 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 290 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 295 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 300 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 300 ps  Iteration: 1  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 305 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 310 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 315 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 320 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 325 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 330 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 335 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 340 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 345 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 350 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 355 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 360 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 365 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 370 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 375 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 380 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 385 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 390 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 395 ps  Iteration: 0  Instance: /regfile
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 400 ps  Iteration: 0  Instance: /regfile
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:22:22 on Oct 23,2025, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:22:22 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+# ** Error: invalid command name "========================================================"
+# Error in macro ./../../DO/regfile_2.do line 1
+# invalid command name "========================================================"
+#     while executing
+# "========================================================"
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:22:58 on Oct 23,2025, Elapsed time: 0:00:36
+# Errors: 1, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:22:58 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+restart
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:29:13 on Oct 23,2025, Elapsed time: 0:06:15
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:29:13 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+restart
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:33:09 on Oct 23,2025, Elapsed time: 0:03:56
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:33:09 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+restart
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:33:42 on Oct 23,2025, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:33:42 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+restart
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:34:22 on Oct 23,2025, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:34:22 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+restart
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:38:16 on Oct 23,2025, Elapsed time: 0:03:54
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:38:16 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+restart
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 14:39:15 on Oct 23,2025, Elapsed time: 0:00:59
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 14:39:15 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile_2.do
+wlf2vcd vsim.wlf
+# ** Error: Unable to open WLF file "vsim.wlf".
+ls
+# DD_flow_tutorial.pdf
+# lab1
+# lab1.pdf
+# lab2
+# lab2.pdf
+# lab3
+# lab3.pdf
+# lab4
+# lab4_Part1.pdf
+# lab4_Part2.pdf
+# Nexys_Quickstart.pdf
+# regfile_board.vhd
+# regfile.vhd
+# transcript
+# vsim.wlf
+# work
+wlf2vcd vsim.wlf regfile.vcd
+# ** Error: Unrecognized argument "regfile.vcd".
+# Usage: wlf2vcd [<Options>...] [-o <outfile>] <wlffile>
+# Options:
+#     -help        Print this message
+#     -quiet       Don't report warnings
+wlf2vcd vsim.wlf -o regfile.vcd
+# ** Error: Unable to open WLF file "vsim.wlf".
+quit -sim
+# End time: 14:49:02 on Oct 23,2025, Elapsed time: 0:09:47
+# Errors: 0, Warnings: 0
+wlf2vcd vsim.wlf -o regfile.vcd
+ls
+# DD_flow_tutorial.pdf
+# lab1
+# lab1.pdf
+# lab2
+# lab2.pdf
+# lab3
+# lab3.pdf
+# lab4
+# lab4_Part1.pdf
+# lab4_Part2.pdf
+# Nexys_Quickstart.pdf
+# regfile_board.vhd
+# regfile.vcd
+# regfile.vhd
+# transcript
+# vsim.wlf
+# work
+vsim -do ../../DO/regfile_2.do regfile
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 18:57:51 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# ../../DO/regfile_2.do
+# invalid command name "../../DO/regfile_2.do"
+ls
+# DD_flow_tutorial.pdf
+# lab1
+# lab1.pdf
+# lab2
+# lab2.pdf
+# lab3
+# lab3.pdf
+# lab4
+# lab4_Part1.pdf
+# lab4_Part2.pdf
+# Nexys_Quickstart.pdf
+# regfile_board.vhd
+# regfile.vcd
+# regfile.vhd
+# transcript
+# vsim.wlf
+# work
+vsim -do ../../DO/regfile_2.do regfile
+# End time: 18:58:09 on Oct 23,2025, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile_2.do" regfile 
+# Start time: 18:58:09 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# ../../DO/regfile_2.do
+# invalid command name "../../DO/regfile_2.do"
+../../DO/regfile.do
+# invalid command name "../../DO/regfile.do"
+vsim -do ../../DO/regfile.do regfile
+# End time: 18:58:27 on Oct 23,2025, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0
+# vsim -do "../../DO/regfile.do" regfile 
+# Start time: 18:58:27 on Oct 23,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../DO/regfile.do

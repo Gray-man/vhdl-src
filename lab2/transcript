@@ -1,0 +1,12 @@
+# vsim -do "../../../DO/regfile.do" regfile 
+# Start time: 10:24:51 on Nov 13,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.regfile(regfile)
+# do ../../../DO/regfile.do
+# End time: 10:32:02 on Nov 13,2025, Elapsed time: 0:07:11
+# Errors: 0, Warnings: 0

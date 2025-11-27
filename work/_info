@@ -1,0 +1,167 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/lucas-graham/vhdl/Modelsim/Code/vhdl-src
+Ealu
+Z1 w1761242944
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 22
+R0
+Z6 8lab1/alu.vhd
+Z7 Flab1/alu.vhd
+l0
+L5 1
+V931YTY6eG1Tn:fcRdU[A10
+!s100 `^FhTOTaZ0S[E]0PELM`A0
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1763584445
+!i10b 1
+Z10 !s108 1763584445.000000
+Z11 !s90 lab1/alu.vhd|
+!s107 lab1/alu.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Aalu
+R2
+R3
+R4
+R5
+Z13 DEx4 work 3 alu 0 22 931YTY6eG1Tn:fcRdU[A10
+!i122 22
+l20
+Z14 L15 72
+Z15 VIT=N?nANZVGLnXkJ8ZQW:2
+Z16 !s100 1nE56Z_ASe?oN39dhbG:M1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+Z17 !s107 lab1/alu.vhd|
+!i113 1
+R12
+Ealu_board
+w1761226094
+R2
+R3
+R4
+R5
+!i122 8
+R0
+Z18 8alu.vhd
+Z19 Falu.vhd
+l0
+L5 1
+V3271RB6zbE8g6b5G0<JQ`0
+!s100 9:PXjgcKaCzW>oB8g66]E1
+R8
+32
+!s110 1761226100
+!i10b 1
+!s108 1761226100.000000
+Z20 !s90 alu.vhd|
+Z21 !s107 alu.vhd|
+!i113 1
+R12
+Enext_address
+Z22 w1763056647
+Z23 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+R4
+R5
+!i122 20
+R0
+Z24 8lab3/next_address.vhd
+Z25 Flab3/next_address.vhd
+l0
+L6 1
+VFo@GBQj2Fj[hEUXHWEE2g3
+!s100 5fm@m3nA[f0mjj0zf6D3I0
+R8
+32
+Z26 !s110 1763584366
+!i10b 1
+Z27 !s108 1763584366.000000
+Z28 !s90 lab3/next_address.vhd|
+Z29 !s107 lab3/next_address.vhd|
+!i113 1
+R12
+Anext_address
+R23
+R2
+R3
+R4
+R5
+DEx4 work 12 next_address 0 22 Fo@GBQj2Fj[hEUXHWEE2g3
+!i122 20
+l18
+L16 61
+V0AaoOk]mND<1mNkI2Ya^U1
+!s100 MRWdL3=a5:ONV@4aV86?=0
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+Eregfile
+Z30 w1763055159
+R23
+R2
+Z31 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+!i122 21
+R0
+Z32 8lab2/regfile.vhd
+Z33 Flab2/regfile.vhd
+l0
+L6 1
+VEPYfKNmN=1lzaSYNWYmS`3
+!s100 P9GOCGHXOL^I[Y;7A[I>X0
+R8
+32
+Z34 !s110 1763584440
+!i10b 1
+Z35 !s108 1763584440.000000
+Z36 !s90 lab2/regfile.vhd|
+Z37 !s107 lab2/regfile.vhd|
+!i113 1
+R12
+Aregfile
+R23
+R2
+R31
+R4
+R5
+DEx4 work 7 regfile 0 22 EPYfKNmN=1lzaSYNWYmS`3
+!i122 21
+l24
+L18 38
+VSb^N2LMfz9gnmSS<NZ<I]3
+!s100 l6]mRkP@c[gZg8hW35fY[0
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R12

@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/lucas-graham/vhdl/Modelsim/Code/vhdl-src/lab2
+Eregfile
+Z1 w1764215949
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z7 8regfile.vhd
+Z8 Fregfile.vhd
+l0
+L6 1
+VEPYfKNmN=1lzaSYNWYmS`3
+!s100 P9GOCGHXOL^I[Y;7A[I>X0
+Z9 OV;C;2020.1;71
+32
+Z10 !s110 1764215953
+!i10b 1
+Z11 !s108 1764215953.000000
+Z12 !s90 regfile.vhd|
+Z13 !s107 regfile.vhd|
+!i113 1
+Z14 tExplicit 1 CvgOpt 0
+Aregfile
+R2
+R3
+R4
+R5
+R6
+Z15 DEx4 work 7 regfile 0 22 EPYfKNmN=1lzaSYNWYmS`3
+!i122 4
+l24
+Z16 L18 27
+VU6f2n5_@BonBJd`fF8]jV3
+!s100 BD?PJz_D4M]GfQ7QIjEW82
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+Eregfile_board
+Z17 w1761320710
+R2
+R3
+R4
+R5
+R6
+!i122 0
+R0
+Z18 8regfile_board.vhd
+Z19 Fregfile_board.vhd
+l0
+L6 1
+VMzm9DO?be?=_bHCl_jMZ@3
+!s100 eoY[Ak9IV]g>J?3DCZ:^02
+R9
+32
+Z20 !s110 1761320729
+!i10b 1
+Z21 !s108 1761320729.000000
+Z22 !s90 regfile_board.vhd|
+Z23 !s107 regfile_board.vhd|
+!i113 1
+R14
+Aregfile_board
+R2
+R3
+R4
+R5
+R6
+DEx4 work 13 regfile_board 0 22 Mzm9DO?be?=_bHCl_jMZ@3
+!i122 0
+l25
+L18 51
+VVF3;TQPJQ^YGMXjMND3Y=0
+!s100 =PRgQ6Z_TK4l[H^M@njVW1
+R9
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R14
