@@ -20,7 +20,7 @@ architecture d_cache of d_cache is
 	signal dcache_array : MEM_ARRAY;
 
 begin
-	process(din, reset, clk, data_write, read_b, write_address) 
+	process(clk, reset, data_write, address, d_in) 
 
 	begin
 	
@@ -28,7 +28,7 @@ begin
 
 		if (rising_edge(clk) and data_write = '1') then
 			
-			dcache_array(to_integer(unsigned(write_address))) <= din;
+			dcache_array(to_integer(unsigned(address))) <= d_in;
 			
 		end if;	
 	
@@ -44,8 +44,7 @@ begin
 	
 	-- read data
 
-		out_a <= dcache_array(to_integer(unsigned(read_a)));
-		out_b <= dcache_array(to_integer(unsigned(read_b)));
+		d_out <= dcache_array(to_integer(unsigned(address)));
 
 	end process;
-end d_cache
+end d_cache;

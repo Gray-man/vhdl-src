@@ -22,35 +22,24 @@ architecture regfile of regfile is
 	signal register_array : REG_ARRAY;
 
 begin
-
 	
-	process(din, reset, clk, write, read_a, read_b, write_address) 
-
+	-- reset & write data
+	process(reset, clk, write) 
 	begin
-	
-	-- write data
-
-		if (rising_edge(clk) and write = '1') then
-			
-			register_array(to_integer(unsigned(write_address))) <= din;
-			
-		end if;	
-	
-	-- reset
-
 		if (reset = '1') then
 			for i in 0 to 31 loop
-			
 				register_array(i) <= "00000000000000000000000000000000";
-		
 			end loop;
-		end if;
-	
-	-- read data
+		elsif (rising_edge(clk) and write = '1') then
+			register_array(to_integer(unsigned(write_address))) <= din;
+		end if;	
+	end process;
 
+	-- read data
+	process(read_a, read_b, register_array)
+	begin	
 		out_a <= register_array(to_integer(unsigned(read_a)));
 		out_b <= register_array(to_integer(unsigned(read_b)));
-
 	end process;
 end regfile;
 
